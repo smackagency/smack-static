@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / Social - Dark / Facebook / F</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="5.25 20 10.5 20 10.5 0 5.25 0 0 0 0 20"></polygon>
+    </defs>
+    <g id="Icon-/-Social---Dark-/-Facebook-/-F" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(12.000000, 12.000000)">
+            <rect id="Rectangle-4" x="0" y="0" width="24" height="24"></rect>
+            <g id="Page-1" transform="translate(6.750000, 2.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M6.81495393,20 L6.81495393,10.8768313 L9.90914245,10.8768313 L10.373494,7.32238828 L6.81495393,7.32238828 L6.81495393,5.05190311 C6.81495393,4.02120297 7.10219702,3.32032688 8.59496811,3.32032688 L10.5,3.32032688 L10.5,0.139880733 C10.1681077,0.0971802989 9.03848335,0 7.724309,0 C4.98136074,0 3.10311836,1.65648237 3.10311836,4.69999264 L3.10311836,7.32238828 L0,7.32238828 L0,10.8768313 L3.10311836,10.8768313 L3.10311836,20 L6.81495393,20 Z" id="Fill-1" fill="#242527" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+        <circle id="Oval" stroke="#242527" stroke-width="2" cx="24" cy="24" r="23"></circle>
+    </g>
+</svg>
