@@ -1,0 +1,23 @@
+{
+  "entrypoints": {
+    "app": {
+      "js": [
+        "/wp-content/themes/smack/assets-build/runtime.5f55100d.js",
+        "/wp-content/themes/smack/assets-build/0.40ccb9fb.js",
+        "/wp-content/themes/smack/assets-build/app.ff27e412.js"
+      ],
+      "css": [
+        "/wp-content/themes/smack/assets-build/app.9290e139.css"
+      ]
+    },
+    "amp": {
+      "js": [
+        "/wp-content/themes/smack/assets-build/runtime.5f55100d.js",
+        "/wp-content/themes/smack/assets-build/amp.3d0da04e.js"
+      ],
+      "css": [
+        "/wp-content/themes/smack/assets-build/amp.392d5eaa.css"
+      ]
+    }
+  }
+}
